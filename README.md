@@ -8,7 +8,7 @@ DIEF is the **first detection framework** to apply **homologous dual features** 
 
 ## :star2:Main Results
 
-Identification results on VLF data collected by the Zhangheng 1 satellite
+Identification results on VLF data collected by the Zhangheng-1 satellite
 
 ![table1](table1.png)
 
