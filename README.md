@@ -75,7 +75,8 @@ Identification results on the UrbanSound8k dataset
 
 If you find our work helps, please cite our paper:
 
-```@article{WANG2024114021,
+```
+@article{WANG2024114021,
 title = {Lightning-generated Whistlers recognition for accurate disaster monitoring in China and its surrounding areas based on a homologous dual-feature information enhancement framework},
 journal = {Remote Sensing of Environment},
 volume = {304},
