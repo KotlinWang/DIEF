@@ -18,7 +18,8 @@
 
 Visualization of Lightning-generated whistlers:
 
-<img src="./assets/timefreq.jpg" height="50%" width="50%" />
+<div align="center">
+    <img src="./assets/timefreq.jpg" height="75%" width="75%" /> </div>
 
 ## :book:Introduction
 
@@ -37,13 +38,17 @@ DIEF is the **first detection framework** to apply **homologous dual features** 
 
 Identification results on VLF data collected by the Zhangheng-1 satellite:
 
-<img src="./assets/histogram.jpg" alt="table1" style="zoom: 25%;" />
+<div align="center">
+    <img src="./assets/histogram.jpg" height="75%" width="75%" />
+</div>
 
 ![table1](./assets/table4.png)
 
 Identification results on the UrbanSound8k dataset
 
-![table2](./assets/table12.png)
+<div align="center">
+    <img src="./assets/table12.png" height="75%" width="75%" />
+</div>
 
 ## :page_facing_up:DataSet
 
