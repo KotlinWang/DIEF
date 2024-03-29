@@ -18,7 +18,7 @@
 
 Visualization of Lightning-generated whistlers:
 
-<img src="./assets/timefreq.jpg" alt="overview" style="zoom:25%;" />
+<img src="./assets/timefreq.jpg" height="50%" width="50%" />
 
 ## :book:Introduction
 
